@@ -35,7 +35,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khantseithu&show_icons=true&locale=en" alt="khantseithu" /></p>
+[![Khant Sithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=khantseithu&hide=stars,prs,issues,contribs&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khantseithu)](https://github.com/anuraghazra/github-readme-stats)
