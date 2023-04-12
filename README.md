@@ -54,3 +54,5 @@ I am a developer with a passion for using technology to create efficient and eff
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khantseithu&" alt="khantseithu" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
