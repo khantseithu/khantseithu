@@ -55,4 +55,14 @@ I am a developer with a passion for using technology to create efficient and eff
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khantseithu&" alt="khantseithu" /></p>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 12 April 2023 - To: 12 April 2023
+
+Total Time: 10 mins
+
+YAML       7 mins          >>>>>>>>>>>>>>>>>>-------   71.20 %
+Other      1 min           >>>>---------------------   14.26 %
+```
+
 <!--END_SECTION:waka-->
