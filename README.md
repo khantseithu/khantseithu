@@ -57,12 +57,14 @@ I am a developer with a passion for using technology to create efficient and eff
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2023 - To: 12 April 2023
+From: 12 April 2023 - To: 13 April 2023
 
-Total Time: 10 mins
+Total Time: 2 hrs 52 mins
 
-YAML       7 mins          >>>>>>>>>>>>>>>>>>-------   71.20 %
-Other      1 min           >>>>---------------------   14.26 %
+JavaScript   2 hrs 38 mins   >>>>>>>>>>>>>>>>>>>>>>>--   92.26 %
+YAML         7 mins          >------------------------   04.51 %
+JSON         1 min           -------------------------   00.97 %
+Other        1 min           -------------------------   00.91 %
 ```
 
 <!--END_SECTION:waka-->
