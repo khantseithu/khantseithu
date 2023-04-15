@@ -43,15 +43,6 @@ I am a developer with a passion for using technology to create efficient and eff
 <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI">
 </p>
 
-
-
-[![Khant Sithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=khantseithu&hide=stars,prs,issues,contribs&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khantseithu)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khantseithu&" alt="khantseithu" /></p>
 
 <!--START_SECTION:waka-->
