@@ -48,16 +48,16 @@ I am a developer with a passion for using technology to create efficient and eff
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2023 - To: 14 April 2023
+From: 12 April 2023 - To: 15 April 2023
 
-Total Time: 4 hrs 22 mins
+Total Time: 6 hrs 10 mins
 
-JavaScript   2 hrs 40 mins   >>>>>>>>>>>>>>>----------   61.02 %
-TypeScript   1 hr 11 mins    >>>>>>>------------------   27.14 %
-YAML         11 mins         >------------------------   04.30 %
-JSON         8 mins          >------------------------   03.23 %
-CSS          6 mins          >------------------------   02.50 %
-Other        1 min           -------------------------   00.60 %
+JavaScript   4 hrs 9 mins    >>>>>>>>>>>>>>>>>--------   67.20 %
+TypeScript   1 hr 29 mins    >>>>>>-------------------   24.05 %
+YAML         11 mins         >------------------------   03.05 %
+JSON         9 mins          >------------------------   02.48 %
+CSS          7 mins          -------------------------   01.93 %
+Other        1 min           -------------------------   00.42 %
 ```
 
 <!--END_SECTION:waka-->
