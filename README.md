@@ -48,7 +48,7 @@ I am a developer with a passion for using technology to create efficient and eff
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2023 - To: 25 April 2023
+From: 12 April 2023 - To: 26 April 2023
 
 Total Time: 6 hrs 10 mins
 
