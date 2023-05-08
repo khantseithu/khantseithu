@@ -44,24 +44,3 @@ I am a developer with a passion for using technology to create efficient and eff
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khantseithu&" alt="khantseithu" /></p>
-
-<!--START_SECTION:waka-->
-
-```text
-From: 12 April 2023 - To: 07 May 2023
-
-Total Time: 6 hrs 19 mins
-
-JavaScript   4 hrs 9 mins    >>>>>>>>>>>>>>>>---------   65.75 %
-TypeScript   1 hr 29 mins    >>>>>>-------------------   23.54 %
-YAML         11 mins         >------------------------   02.99 %
-JSON         9 mins          >------------------------   02.43 %
-HTML         8 mins          >------------------------   02.15 %
-CSS          7 mins          -------------------------   01.89 %
-Other        1 min           -------------------------   00.41 %
-Git Config   1 min           -------------------------   00.39 %
-Git          1 min           -------------------------   00.36 %
-Markdown     0 secs          -------------------------   00.08 %
-```
-
-<!--END_SECTION:waka-->
