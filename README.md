@@ -51,5 +51,3 @@ I am a developer with a passion for using technology to create efficient and eff
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
 
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khantseithu&" alt="khantseithu" /></p>
