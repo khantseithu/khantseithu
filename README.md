@@ -2,8 +2,6 @@
 
 **`a dev`**
 
-![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)
-
 I am a developer with a passion for using technology to create efficient and effective solutions. I have experience in multiple programming languages and technologies and always looking to learn more. I have a background in computer science and am currently a student at the University of the People. On my GitHub profile, you'll find a collection of my personal projects, experiments, and contributions to the open-source community. Thank you for visiting my profile!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khantseithu&label=Profile%20views&color=0e75b6&style=flat" alt="khantseithu" /> </p>
