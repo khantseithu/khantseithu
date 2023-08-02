@@ -7,6 +7,7 @@ I'm a passionate Full Stack Developer with a strong focus on frontend developmen
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khantseithu&label=Profile%20views&color=0e75b6&style=flat" alt="khantseithu" /> </p>
 
+Check out my portfolio - [khantsithu.me](https://khantsithu.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
