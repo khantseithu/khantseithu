@@ -2,7 +2,7 @@
 
 **`a dev`**
 
-👋 Hey there! I'm Khant Sithu, a passionate and driven Full Stack Developer. At 19 years old, I'm deeply immersed in the world of web development and software engineering. My journey began with a love for problem-solving and a fascination with creating things that have a real impact.
+👋 Hey there! I'm Khant Sithu, a 19 y/o passionate and driven Full Stack Developer. I'm deeply immersed in the world of web development and software engineering. My journey began with a love for problem-solving and a fascination with creating things that have a real impact.
 
 🚀 My expertise spans the realms of both frontend and backend development. From crafting intuitive user interfaces with React and TypeScript to building robust server-side applications using Node.js, I thrive on crafting elegant solutions that marry form and function.
 
