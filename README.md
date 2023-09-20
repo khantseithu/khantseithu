@@ -30,3 +30,6 @@ Check out my portfolio - [khantsithu.me](https://khantsithu.me)
 | General     | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                                                                                                                                                                                                            
 
 Feel free to explore my projects and reach out to collaborate on exciting opportunities! Let's redefine the boundaries of software development together! 🚀
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
