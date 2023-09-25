@@ -21,8 +21,8 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          BLOCKS: ░▒▓█ # optional
-
+          BLOCKS: -> # optional
+          CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
@@ -31,4 +31,7 @@ jobs:
           STOP_AT_OTHER: true # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          AUTHOR_NAME: Khant Sithu # optional
+          TARGET_BRANCH: master # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
