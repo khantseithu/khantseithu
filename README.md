@@ -34,6 +34,7 @@ Feel free to explore my projects and reach out to collaborate on exciting opport
 
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=khantseithu&show_icons=true&locale=en&theme=vision-friendly-dark" alt="khantseithu" />
+<br />
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=khantseithu&theme=dark&background=000000" alt="khantseithu"/>
 </div>  
 
