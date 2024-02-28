@@ -1,4 +1,4 @@
-# ⚡ Khant Sithu
+![GitHubIntro](https://github.com/khantseithu/khantseithu/assets/100980146/b758784a-09ee-409b-a66d-c7dd4ef47d18)
 
 **`a dev`**
 
