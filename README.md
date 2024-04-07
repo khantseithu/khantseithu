@@ -26,5 +26,5 @@ Feel free to explore my projects and reach out to collaborate on exciting opport
 <br />
 
 
-![](https://leetcard.jacoblin.cool/khantseithu)
+![](https://leetcard.jacoblin.cool/khantseithu?ext=heatmap&width=1000,height=400)
 
