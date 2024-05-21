@@ -2,6 +2,13 @@
 
 [Learn more about me](https://www.khantsithu.me/about)
 
+## Tech Stack
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,vue,astro,tailwindcss,materialui,css,redux,svelte,python,dart,mysql,postgres,vite,vitest,redis,prisma,sequelize,docker,mongodb,laravel,linux,supabase,githubactions,aws,firebase,notion&perline=12" />
+  </a>
+</p>
+
 
 ![](https://leetcard.jacoblin.cool/khantseithu)
 
