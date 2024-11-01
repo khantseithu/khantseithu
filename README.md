@@ -1,6 +1,6 @@
 ![GitHubIntro](https://github.com/khantseithu/khantseithu/assets/100980146/b758784a-09ee-409b-a66d-c7dd4ef47d18)
 
-[Learn more about me](https://www.khantsithu.me/about)
+[Learn more about me](https://www.briansithu.com/about)
 
 ## Tech Stack
 <p>
