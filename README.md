@@ -5,7 +5,7 @@
 ## Tech Stack
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,rabbitmq,graphql,docker,mongodb,tailwindcss,materialui,css,redux,svelte,python,dart,mysql,postgres,vite,vitest,redis,prisma,sequelize,vue,pinia,astro,laravel,linux,supabase,githubactions,aws,firebase,git,vercel,redis&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,py,fastapi,django,rabbitmq,docker,mongodb,tailwindcss,materialui,css,redux,svelte,dart,mysql,postgres,vite,vitest,redis,prisma,sequelize,vue,pinia,astro,laravel,linux,supabase,githubactions,aws,firebase,git,vercel,redis,graphql&perline=12" />
   </a>
 </p>
 
