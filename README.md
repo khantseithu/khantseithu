@@ -1,12 +1,6 @@
-![GitHubIntro](https://github.com/khantseithu/khantseithu/assets/100980146/b758784a-09ee-409b-a66d-c7dd4ef47d18)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png" />
+  <img alt="Khant Si Thu. I build things with LLMs." src="./banner-light.png" />
+</picture>
 
-## Tech Stack
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,py,fastapi,django,rabbitmq,docker,mongodb,tailwindcss,materialui,css,redux,svelte,dart,mysql,postgres,vite,vitest,redis,prisma,sequelize,vue,pinia,astro,laravel,linux,supabase,githubactions,aws,firebase,git,vercel,redis,graphql&perline=12" />
-  </a>
-</p>
-
-
-![](https://leetcard.jacoblin.cool/khantseithu)
-
+Hi, I'm Khant. I build things with LLMs: agents, retrieval, voice. Most experiments land here; the write-ups land on [my site](https://briansithu.com/posts).
